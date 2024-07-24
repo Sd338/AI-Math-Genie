@@ -1,0 +1,9 @@
+numpy==1.24.3
+sympy==1.12
+groq==0.1.0  # Replace with the actual version of the Groq library
+PyQt5==5.15.9
+python-dotenv==1.0.0
+requests==2.31.0  # Or the latest version if needed
+numpy==1.25.2  # For any additional mathematical functions or linear algebra operations
+sympy==1.12  # For symbolic mathematics and algebraic calculations
+eel
